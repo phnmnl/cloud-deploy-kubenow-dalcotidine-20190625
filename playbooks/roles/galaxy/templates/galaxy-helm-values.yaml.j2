@@ -6,7 +6,7 @@ galaxy:
   init:
     image:
       repository: "{{ galaxy_init_image }}"
-      tag: "{{ galaxy_image_tag }}"
+      tag: "{{ galaxy_init_image_tag }}"
       pullPolicy: IfNotPresent
     resources: {}
   backend:
