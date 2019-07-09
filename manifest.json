@@ -48,34 +48,27 @@
     "private_network_name",
     "use_floating_IPs",
     "dns_nameservers",
-    
     "master_as_edge",
     "master_flavor",
     "master_flavor_id",
-    
     "node_count",
     "node_flavor",
     "node_flavor_id",
-    
     "edge_count",
     "edge_flavor",
     "edge_flavor_id",
-
     "glusternode_flavor",
     "glusternode_count",
-    "glusternode_extra_disk_size",    
-    
+    "glusternode_extra_disk_size",
     "use_cloudflare",
     "cloudflare_email",
     "cloudflare_token",
     "cloudflare_domain",
-    
     "cf_mail",
     "cf_token",
     "cf_zone",
     "preset",
     "preconfigured",
-
     "phenomenal_pvc_size",
     "galaxy_admin_email",
     "galaxy_admin_password",
