@@ -53,7 +53,10 @@
     "jupyter_password",
     "floating_ip_pool",
     "external_network_uuid",
-    "master_as_edge"
+    "master_as_edge",
+    "master_flavor",
+    "node_flavor",
+    "edge_flavor"
   ],
   "outputs": [
 
