@@ -56,7 +56,8 @@
     "master_as_edge",
     "master_flavor",
     "node_flavor",
-    "edge_flavor"
+    "edge_flavor",
+    "glusternode_flavor"
   ],
   "outputs": [
 
