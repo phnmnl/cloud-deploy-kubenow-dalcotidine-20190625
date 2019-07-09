@@ -42,7 +42,8 @@
 	            "cf_zone",
 	            "galaxy_admin_password",
 	            "galaxy_admin_email",
-	            "jupyter_password"
+	            "jupyter_password",
+              "floating_ip_pool"
 	            
 	          ],
 	"outputs": [],
