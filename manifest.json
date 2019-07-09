@@ -73,6 +73,7 @@
     "cf_mail",
     "cf_token",
     "cf_zone",
+    "preset",
     "preconfigured",
 
     "phenomenal_pvc_size",
