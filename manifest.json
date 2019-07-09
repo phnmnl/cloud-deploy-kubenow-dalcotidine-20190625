@@ -73,6 +73,7 @@
     "cf_mail",
     "cf_token",
     "cf_zone",
+    "preconfigured",
 
     "phenomenal_pvc_size",
     "galaxy_admin_email",
