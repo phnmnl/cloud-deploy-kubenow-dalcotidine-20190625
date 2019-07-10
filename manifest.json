@@ -80,8 +80,9 @@
     "aws_region",
     "availability_zone",
     "master_instance_type",
-    "node_instance_type",
-    "edge_instance_typ",
+    "node_instance_type",    
+    "edge_instance_type",
+    "glusternode_instance_type",
     "gce_credentials_file",
     "gce_project",
     "gce_zone"
