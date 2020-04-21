@@ -1,8 +1,8 @@
 {
-  "applicationName": "Phenomenal VRE 3.0-Dalcotidine-20190625",
+  "applicationName": "Phenomenal VRE 3.0-Dalcotidine-20200421",
   "contactEmail": "email@phenomenal.cloud",
   "about": "Phenomenal Virtual Research Environment/Cloud",
-  "version": "v18.01-dalcotidine-20190625",
+  "version": "v18.01-dalcotidine-20200421",
   "cloudProviders": [
     {
       "cloudProvider": "AWS",
