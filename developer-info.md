@@ -64,10 +64,11 @@ In this configuration file you will need to set:
 - **`TF_VAR_edge_instance_type`**: an instance flavor for the edge nodes
 
 *Cloudflare (optional)* - See: KubeNow [Cloudflare documentation.](http://kubenow.readthedocs.io/en/latest/getting_started/install-core.html#cloudflare-account-configuration)
-- **`TF_VAR_use_cloudflare`**: wether you want to use cloudflare as dns provider
+- **`TF_VAR_use_cloudflare`**: whether you want to use cloudflare as dns provider
 - **`TF_VAR_cloudflare_email`**: the mail that you used to register your Cloudflare account
 - **`TF_VAR_cloudflare_token`**: an authentication token that you can generate from the Cloudflare web interface
 - **`TF_VAR_cloudflare_domain`**: a zone that you created in your Cloudflare account. This typically matches your domain name (e.g. somedomain.com)
+- **`TF_VAR_cloudflare_zone_id`**: a zone ID as shown in your Cloudflare account for this domain. Both domain and zone_id are needed.
 
 *Galaxy*
 - **`TF_VAR_galaxy_admin_email`**: the local galaxy admin (you?)
